@@ -1,2 +1,2 @@
 # Dijkstra
-ALgoritmo Dijkstra en Java
+Algoritmo Dijkstra en Java
